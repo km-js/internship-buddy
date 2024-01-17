@@ -1,8 +1,7 @@
-# React + Vite
+# Internship Buddy 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Internship Buddy landing page
 
-Currently, two official plugins are available:
+Made by [React + Vite](https://vitejs.dev/guide/) and [React Bootstrap](https://react-bootstrap.github.io/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Internship Buddy](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e88qktrmbdky12723spw.png)
