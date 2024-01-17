@@ -1,5 +1,4 @@
 import './Footer.css';
-import logo from '../../assets/logo.png';
 
 const Footer = () => {
   return (
@@ -41,7 +40,7 @@ const Footer = () => {
         <div className="col-xl-4 col-lg-4 mb-50">
           <div className="footer-widget">
             <div className="footer-logo">
-              <a href="index.html"><img src={logo} className="img-fluid" alt="logo" /></a>
+              <a href="index.html"><h1 className="heading" style={{ color: '#fb1c15' }}>Internship Buddy</h1></a>
             </div>
             <div className="footer-text">
               <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit, sed do eiusmod tempor incididuntut consec tetur adipisicing
@@ -98,7 +97,7 @@ const Footer = () => {
       <div className="row">
         <div className="col-xl-6 col-lg-6 text-center text-lg-left">
           <div className="copyright-text">
-            <p>Copyright © 2023, All Right Reserved <a href="https://codepen.io/anupkumar92/">Tuna</a></p>
+            <p>Copyright © 2023, All Right Reserved</p>
           </div>
         </div>
         <div className="col-xl-6 col-lg-6 d-none d-lg-block text-right">

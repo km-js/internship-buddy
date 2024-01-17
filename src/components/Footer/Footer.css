@@ -46,6 +46,9 @@ ul {
 .footer-logo {
   margin-bottom: 30px;
 }
+.footer-logo a{
+  text-decoration: none;
+}
 .footer-logo img {
     max-width: 200px;
 }

@@ -2,7 +2,6 @@ import './Topbar.css';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container';
-import logo from '../../assets/logo.png';
 import { Button } from 'react-bootstrap';
 
 const Topbar = () => {
@@ -11,7 +10,7 @@ const Topbar = () => {
       <Navbar expand="lg" className="bg-transparent shadow-sm">
         <Container>
           <Navbar.Brand href="#home">
-            <img src={logo} alt="logo" style={{width:"100%", height:"100%", objectFit:'cover'}}/>
+            <h1 className="heading" style={{ color: '#fb1c15' }}>Internship Buddy</h1>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
